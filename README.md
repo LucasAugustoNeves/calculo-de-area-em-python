@@ -1,2 +1,2 @@
 # calculo-de-area-em-python
-pequeno codigo d calculo de area
+pequeno codigo de calculo de area

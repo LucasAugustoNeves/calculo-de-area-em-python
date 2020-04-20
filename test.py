@@ -1,0 +1,6 @@
+n1 = input ("informe a largura do terreno ")
+n2 = input ("informe o com peimento do terreno ")
+soma = int(n1) * int(n2)
+print ("a area de seu terreno é", soma , "metros quadrado")
+print ("precione enter para sair")
+input()
